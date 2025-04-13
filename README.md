@@ -5,8 +5,8 @@ I'm learning SEO and digital marketing. This is my portfolio of projects created
 
 ## 📊 My SEO Projects
 
-- SEO Project – [View here](https://link-to-your-google-doc.com)
-- Data Visualization!
+- **SEO Project** – [View here](https://link-to-your-first-project.com)
+- **Data Visualization** – [View here](https://link-to-your-second-project.com)
 
 ## 📬 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mashiyatiqbal)
