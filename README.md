@@ -1,7 +1,7 @@
 # mashiyatiqbal.github.io
 # Hi, I’m Mashiyat Iqbal
 
-I'm learning SEO and digital marketing. This is my portfolio of projects created using different digital marketing tools.
+This is my portfolio of projects using different digital marketing tools.
 
 ## 📊 My SEO Projects
 
